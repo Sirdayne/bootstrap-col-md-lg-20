@@ -1,3 +1,8 @@
+body{
+  font-family: "Century Gothic","Apple Gothic","URW Gothic L","Avant Garde",Futura,sans-serif;
+  color: #FFF;
+}
+
 .red{
     background: rgba(255,0,0,1);
 }
