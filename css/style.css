@@ -1,0 +1,19 @@
+.red{
+    background: rgba(255,0,0,1);
+}
+
+.green{
+    background: rgba(0,255,0,1);
+}
+
+.blue{
+    background: rgba(0,0,255,1);
+}
+
+.monk{
+    background: rgba(125,125,255,1);
+}
+
+.ponk{
+    background: rgba(225,125,255,1);
+}
